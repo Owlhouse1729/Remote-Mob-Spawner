@@ -1,0 +1,6 @@
+name: Remote Mob Spawner
+version: '${project.version}'
+main: com.owlhousedev.remotemobspawner.RemoteMobSpawner
+api-version: 1.19
+authors: [ Owlhouse ]
+description: Spawns mob remotely
