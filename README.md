@@ -7,3 +7,5 @@ Every spawn egg launches an egg when clickec, and summon the mob at the landing 
 Status: developing.
 
 Developers: Owlhouse,
+
+Language: Java
